@@ -1,7 +1,12 @@
-## Hi there 👋
-
+### Hi there 👋,I'm 今天我头大😄
+- 🔭 I’m an REGULAR undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
+- 🌱 I’m currently working on LLM, Multi-Agents as well as GNN
+- 🤔 I’m ESPECIALLY looking for help with master/PHD offers
+- 💬 Ask me whatever you want to, as long as I have the ability to answer. XD
+- 📫 How to reach
+   - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
+    
 <!--
-**BILLYisavailable/BILLYisavailable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
