@@ -2,7 +2,7 @@
 - 🔭 I’m an REGULAR undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
 - 🌱 I’m currently working on LLM, Multi-Agents as well as GNN
 - 🤔 I’m ESPECIALLY looking for help with master/PHD offers
-- 💬 Ask me whatever you want to, as long as I have the ability to answer. XD
+- 💬 Ask me whatever you want to, as long as I have the ability to answer.
 - 📫 How to reach
    - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
     
