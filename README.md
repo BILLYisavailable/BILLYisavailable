@@ -1,10 +1,13 @@
 ### Hi there 👋,I'm 今天我头大😄
 - 🔭 I’m an undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
-- 🌱 I’m currently working on LLM, Multi-Agents as well as GNN
-- 🤔 I’m ESPECIALLY looking for help with master/PHD offers
+- 🌱 I'm currently working on LLM model structure compression.
+- 💬 My research interests lie in LLM model structure and GNN.
+- 🤔 I’m ESPECIALLY looking for help with master/PHD offers in 26Fall.
 - 💬 Ask me whatever you want to, as long as I have the ability to answer.
 - 📫 How to reach
    - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
+   - 📧(e-mail): wangyuxuanbilly@gmail.com
+- ⚡ Fun fact: When you run an algorithm, it hardly works on the first try; so does life.
     
 <!--
 
