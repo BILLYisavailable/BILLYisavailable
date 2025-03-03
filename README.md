@@ -1,4 +1,4 @@
-### Hi there 👋,I'm 今天我头大😄
+### Hi there 👋,I'm Yuxuan Wang (王雨轩)😄
 - 🔭 I’m an undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
 - 🌱 I'm currently working on LLM model structure compression.
 - 💬 My research interests lie in LLM and GNN.
