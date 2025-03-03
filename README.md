@@ -1,7 +1,7 @@
 ### Hi there 👋,I'm 今天我头大😄
 - 🔭 I’m an undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
 - 🌱 I'm currently working on LLM model structure compression.
-- 💬 My research interests lie in LLM model structure and GNN.
+- 💬 My research interests lie in LLM and GNN.
 - 🤔 I’m ESPECIALLY looking for help with master/PHD offers in 26Fall.
 - 💬 Ask me whatever you want to, as long as I have the ability to answer.
 - 📫 How to reach
