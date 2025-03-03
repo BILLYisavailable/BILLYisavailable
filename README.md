@@ -7,7 +7,7 @@
 - 📫 How to reach
    - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
    - 📧(e-mail): wangyuxuanbilly@gmail.com
-- ⚡ Fun fact: When you run an algorithm, it hardly works on the first try; so does life.
+- ⚡ When you run an algorithm, it hardly works on the first try; so does life.
     
 <!--
 
