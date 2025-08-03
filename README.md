@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yuxuan Wang (王雨轩) 😄
 - 🔭 I’m an undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
-- 🌱 I'm currently working on Model Compression.
+- 🌱 I'm currently working on Model Structure.
 - 💬 Ask me whatever you want to, as long as I have the ability to answer.
 - 📫 How to reach
    - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
