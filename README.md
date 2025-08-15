@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Yuxuan Wang (王雨轩) 😄
-- 🔭 I’m an undergrad student in Grade 2022, Beijing Institute of Technology(BIT).
+- 🔭 I’m an undergraduate student in Grade 2022, Beijing Institute of Technology(BIT).
+- 🔭 I'm currently an research intern at MuLab, IAI, PKU.
+- 🔭 I will become a Master Candidate by 2026, at SoftMicro, PKU.
 - 🌱 I'm currently working on Model Structure.
 - 💬 Ask me whatever you want to, as long as I have the ability to answer.
 - 📫 How to reach
