@@ -8,7 +8,7 @@
    - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
    - 📧(e-mail): wangyuxuanbilly@gmail.com
 - ⚡ When you run an algorithm, it hardly works on the first try; so does life.
-- Modified 2026.03: With the help of @claude , sometimes it works.
+- Modified 2026.03: With the help of [@claude](https://github.com/claude), sometimes it works.
     
 <!--
 
