@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Yuxuan Wang (王雨轩) 😄
-- 🔭 I’m an undergraduate student in Grade 2022, Beijing Institute of Technology(BIT).
-- 🔭 I'm currently an research intern at MuLab, IAI, PKU.
-- 🔭 I will become a Master Candidate by 2026, at SoftMicro, PKU.
-- 🌱 I'm currently working on Model Structure.
-- 💬 Ask me whatever you want to, as long as I have the ability to answer.
+- 🔭 I’m an incoming graduate student at SoftMicro, PKU.
+- 🔭 I'm currently an intern at Dots, RedNote.
+- 🌱 I'm currently working on Model Architecture.
 - 📫 How to reach
-   - 📧(e-mail): wangyuxuanbilly@bit.edu.cn
    - 📧(e-mail): wangyuxuanbilly@gmail.com
+   - 📧(e-mail): wangyuxuan7@xiaohongshu.com
 - ⚡ When you run an algorithm, it hardly works on the first try; so does life.
 - Modified 2026.03: With the help of [Claude](https://github.com/claude), sometimes it works.
     
