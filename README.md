@@ -5,7 +5,7 @@
 - 📫 How to reach
    - 📧(e-mail): wangyuxuanbilly@gmail.com
    - 📧(e-mail): wangyuxuan7@xiaohongshu.com
-- ⚡ When you run an algorithm, it hardly works on the first try; so does life.
+- ⚡ When you run an algorithm, it hardly works on the first time; so does life.
 - Modified 2026.03: With the help of [Claude Code](https://github.com/claude), sometimes it works.
     
 <!--
